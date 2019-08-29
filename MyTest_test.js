@@ -40,4 +40,5 @@ Scenario('test something', (I) => {
 Scenario('Gyanendra Scenario Added',(I)=>{
     I.amOnPage('https://codecept.io/basics/');
     I.see('CodeceptJS');
+    I.see('CodeceptJS');
 });
